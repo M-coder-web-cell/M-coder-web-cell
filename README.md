@@ -37,4 +37,4 @@ I build high-impact software at the intersection of **GenAI, Agentic AI, Blockch
 * 🌱 **Learning:** Advanced Data Structures, Microprocessor Architecture (8085/8086).
 * 📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/mrinmoy-mazumdar-31a248242/) | [Email](mailto:devmrinmoy10.com)
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=M-coder-web-cell&show_icons=true&theme=radical&hide_border=true)
+[![](https://visitcount.itsvg.in/api?id=M-coder-web-cell&icon=0&color=0)](https://visitcount.itsvg.in)
