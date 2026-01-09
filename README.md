@@ -34,7 +34,7 @@ I build high-impact software at the intersection of **GenAI, Agentic AI, Blockch
 ###  Current Status
 
 * 🔭 **Working on:** Scaling backend architectures for tech startups.
-* 🌱 **Learning:** Advanced Data Structures, Microprocessor Architecture (8085/8086).
+* 🌱 **Learning:** Advanced Data Structures, Deep Neural Networks and genAI.
 * 📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/mrinmoy-mazumdar-31a248242/) | [Email](mailto:devmrinmoy10.com)
 
-[![](https://visitcount.itsvg.in/api?id=M-coder-web-cell&icon=0&color=0)](https://visitcount.itsvg.in)
+
