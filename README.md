@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Mrinmoy. 
 
-<!--
-**M-coder-web-cell/M-coder-web-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CSE Undergrad @ National Institute of Technology, Silchar | Executive Core Member @ ML Club**
 
-Here are some ideas to get you started:
+I build high-impact software at the intersection of **GenAI, Agentic AI, Blockchain, and Cybersecurity**. My focus is on creating scalable backend systems and intelligent solutions for real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+###  Tech Stack
+
+* **Languages:** Python, C, C++, SQL, JavaScript
+* **Backend:** FastAPI, SQLAlchemy, Docker
+* **Domains:** Machine Learning, Web3/Blockchain, Software Development
+* **Tools:** Git, Postman, Linux
+
+---
+
+###  Featured Projects
+
+* **AI-Health-Udgam**
+    * *A consumer health co-pilot analyzing food labels and health queries using GenAI.*
+    * **Tech:** Python, FastAPI, Docker, SQLAlchemy.
+
+* **AI News Aggregator**
+    * *Automated news scraping and summarization agent utilizing Generative AI.*
+    * **Tech:** Python, GenAI, Docker, SQLAlchemy.
+
+* **Smart NLP Inventory Management System**
+    * *Intelligent stock tracking and management system operated via natural language commands.*
+    * **Tech:** Python, NLP, Backend Logic, Database.
+
+---
+
+###  Current Status
+
+* 🔭 **Working on:** Scaling backend architectures for tech startups.
+* 🌱 **Learning:** Advanced Data Structures, Microprocessor Architecture (8085/8086).
+* 📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/mrinmoy-mazumdar-31a248242/) | [Email](mailto:devmrinmoy10.com)
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=M-coder-web-cell&show_icons=true&theme=radical&hide_border=true)
