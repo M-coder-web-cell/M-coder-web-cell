@@ -6,15 +6,6 @@ I build high-impact software at the intersection of **GenAI, Agentic AI, Blockch
 
 ---
 
-###  Tech Stack
-
-* **Languages:** Python, C, C++, SQL, JavaScript
-* **Backend:** FastAPI, SQLAlchemy, Docker
-* **Domains:** Machine Learning, Web3/Blockchain, Software Development
-* **Tools:** Git, Postman, Linux
-
----
-
 ###  Featured Projects
 
 * **AI-Health-Udgam**
@@ -28,6 +19,15 @@ I build high-impact software at the intersection of **GenAI, Agentic AI, Blockch
 * **Smart NLP Inventory Management System**
     * *Intelligent stock tracking and management system operated via natural language commands.*
     * **Tech:** Python, NLP, Backend Logic, Database.
+
+---
+
+###  Tech Stack
+
+* **Languages:** Python, C, C++, SQL, JavaScript
+* **Backend:** FastAPI, SQLAlchemy, Docker
+* **Domains:** Machine Learning, Web3/Blockchain, Software Development
+* **Tools:** Git, Postman, Linux
 
 ---
 
