@@ -25,15 +25,15 @@ I build high-impact software at the intersection of **GenAI, Agentic AI, Blockch
 ###  Tech Stack
 
 * **Languages:** Python, C, C++, SQL, JavaScript
-* **Backend:** FastAPI, SQLAlchemy, Docker
-* **Domains:** Machine Learning, Web3/Blockchain, Software Development
-* **Tools:** Git, Postman, Linux
+* **Backend:** Django, FastAPI, SQLAlchemy, Docker
+* **Domains:** ML/Data Science, AgenticAI/GEN-AI, Software Development
+* **Tools:** Git, Postman, PGadmin. 
 
 ---
 
 ###  Current Status
 
-*  **Working on:** Scaling backend architectures for tech startups.
+*  **Working on:** Scaling backend architectures and Data-analytics for tech startups.
 *  **Learning:** Advanced Data Structures, Deep Neural Networks and genAI.
 *  **Contact:** [LinkedIn](https://www.linkedin.com/in/mrinmoy-mazumdar-31a248242/) | [Email](mailto:devmrinmoy10.com)
 
